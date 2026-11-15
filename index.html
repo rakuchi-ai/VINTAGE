@@ -33,6 +33,7 @@ select{width:100%;padding:10px;border:1.5px solid var(--bd);border-radius:8px;ba
 .prog i{display:block;height:100%;background:var(--hi)}
 .unit{font-size:12px;color:var(--mut);margin-bottom:6px}
 .q{font:20px/1.9 "BIZ UDPGothic","BIZ UDGothic","Hiragino UD Sans","Yu Gothic UI",sans-serif;white-space:pre-wrap;word-break:break-word;margin:0 0 14px}
+.q u,.ch u,.fb u,.li u{text-decoration:underline;text-underline-offset:.2em;text-decoration-thickness:2px}
 .ch{display:block;width:100%;text-align:left;padding:12px 14px;margin-bottom:8px;border:1.5px solid var(--bd);background:var(--card);border-radius:8px;cursor:pointer;font-size:17px}
 .ch b{display:inline-block;width:1.6em;color:var(--mut)}
 .ch.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 16%,transparent)}
@@ -68,6 +69,8 @@ const loadSt=()=>{try{return Object.assign({wrong:[],stock:[],rec:{}},JSON.parse
 const save=()=>{try{localStorage.setItem(LSK,JSON.stringify(st))}catch(e){}};
 const $=s=>document.querySelector(s), app=$('#app');
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+// 問題文・選択肢・解説用: すべてエスケープしたうえで、<u>…</u> だけを下線として有効にする
+const rich=s=>esc(s).replace(/&lt;u&gt;/g,'<u>').replace(/&lt;\/u&gt;/g,'</u>');
 const norm=s=>String(s).replace(/[’‘]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g,' ').trim().toLowerCase();
 const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 
@@ -169,9 +172,9 @@ function show(){
   <div class="bar"><span>${Q.i+1} / ${total}問 ・ 正解 ${Q.ok}</span><button id="quit">トップページに戻る</button></div>
   <div class="prog"><i style="width:${Q.i/total*100}%"></i></div>
   <div class="card"><div class="unit">${esc(q.unit)}</div>
-  <p class="q">${esc(q.q)}</p>
+  <p class="q">${rich(q.q)}</p>
   <div id="in">${q.fmt=='4択'
-    ?q.c.map((t,i)=>t?`<button class="ch" data-k="${'ABCD'[i]}"><b>${'ABCD'[i]}</b>${esc(t)}</button>`:'').join('')
+    ?q.c.map((t,i)=>t?`<button class="ch" data-k="${'ABCD'[i]}"><b>${'ABCD'[i]}</b>${rich(t)}</button>`:'').join('')
     :`<input type="text" id="ans" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="答えを入力"><div class="acts"><button class="next" id="ok">回答する</button></div>`}
   </div><div id="fb"></div></div>`;
   $('#quit').onclick=quit;
@@ -194,7 +197,7 @@ function judge(v){
   else{$('#ans').disabled=true;$('#ok').remove()}
   const last=Q.i==Q.list.length-1;
   $('#fb').innerHTML=`<div class="fb${ok?'':' bad'}"><h3>${ok?'◯ 正解':'✕ 不正解'}</h3>
-    <p>正解: <span class="ans">${esc(ansText)}</span></p><p>${esc(q.ex)}</p>${auto?'<p class="sub">ストック問題に正答したので、正答扱いになりストックから外れました。</p>':''}</div>
+    <p>正解: <span class="ans">${rich(ansText)}</span></p><p>${rich(q.ex)}</p>${auto?'<p class="sub">ストック問題に正答したので、正答扱いになりストックから外れました。</p>':''}</div>
     <div class="acts"><button class="st${st.stock.includes(q.no)?' on':''}" id="stk">${lbl()}</button>
     <button class="next" id="nx">${last?'結果を見る':'次の問題'}</button></div>`;
   $('#stk').onclick=e=>{toggleStock(q.no);e.target.classList.toggle('on',st.stock.includes(q.no));e.target.textContent=lbl()};
@@ -211,7 +214,7 @@ function result(){
   app.innerHTML=`<div class="bar"><span>演習結果</span><button id="h_top">トップページに戻る</button></div>
   <div class="card"><h2>結果</h2><div class="big">${Q.ok} / ${t}</div>
   <p style="text-align:center;margin:0">正答率 ${Math.round(Q.ok/t*100)}%</p></div>
-  ${Q.ng.length?`<div class="card"><h2>間違えた問題(${Q.ng.length}問・「間違えた問題のみ」で復習できます)</h2>${Q.ng.map(q=>`<div class="li"><div class="q" style="font-size:17px;margin:0">${esc(q.q)}</div><div>正解: <span class="ans">${esc(q.a.length==1&&q.fmt=='4択'?q.a+'. '+q.c['ABCD'.indexOf(q.a)]:q.a)}</span></div></div>`).join('')}</div>`:''}
+  ${Q.ng.length?`<div class="card"><h2>間違えた問題(${Q.ng.length}問・「間違えた問題のみ」で復習できます)</h2>${Q.ng.map(q=>`<div class="li"><div class="q" style="font-size:17px;margin:0">${rich(q.q)}</div><div>正解: <span class="ans">${rich(q.a.length==1&&q.fmt=='4択'?q.a+'. '+q.c['ABCD'.indexOf(q.a)]:q.a)}</span></div></div>`).join('')}</div>`:''}
   <button class="go" id="h">トップページに戻る</button>`;
   $('#h').onclick=home;$('#h_top').onclick=home;scrollTo(0,0);
 }
@@ -250,9 +253,9 @@ function stockView(){
   const items=st.stock.map(byNo).filter(Boolean);
   app.innerHTML=`<div class="bar"><span>自信がない問題ストック(${items.length}問)</span><button id="b">トップページに戻る</button></div>
   <div class="card">${items.length?items.map(q=>`<div class="li"><div class="unit">${esc(q.unit)}(${q.fmt})</div>
-    <div class="q" style="font-size:17px;margin:0 0 4px">${esc(q.q)}</div>
-    <div>正解: <span class="ans">${esc(q.fmt=='4択'?q.a+'. '+q.c['ABCD'.indexOf(q.a)]:q.a)}</span></div>
-    <div style="color:var(--mut);font-size:14px">${esc(q.ex)}</div>
+    <div class="q" style="font-size:17px;margin:0 0 4px">${rich(q.q)}</div>
+    <div>正解: <span class="ans">${rich(q.fmt=='4択'?q.a+'. '+q.c['ABCD'.indexOf(q.a)]:q.a)}</span></div>
+    <div style="color:var(--mut);font-size:14px">${rich(q.ex)}</div>
     <button class="link" data-r="${q.no}">ストックから外す</button></div>`).join(''):'<p>ストックはまだありません。演習で「自信がないのでストック」を押すとここに溜まります。</p>'}</div>`;
   $('#b').onclick=home;
   app.querySelectorAll('[data-r]').forEach(b=>b.onclick=()=>{toggleStock(+b.dataset.r);stockView()});
