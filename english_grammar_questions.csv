@@ -518,7 +518,7 @@ I didn't know that it was going to rain today, so I left my umbrella at home.",I
 1. It is worth watching the program.
 2. The program is worth watching.
 3. The program is worth watching it.
-【和訳】その番組は見る価値がある。",,,,,3,３,be worth ~ing は動名詞が他動詞の目的語を兼ねるので、目的語 it を重ねない。誤りは3(watching it の it が不要)。1は形式主語、2は The program が watching の意味上の目的語。,,
+【和訳】その番組は見る価値がある。",,,,,3,3,be worth ~ing は動名詞が他動詞の目的語を兼ねるので、目的語 it を重ねない。誤りは3(watching it の it が不要)。1は形式主語、2は The program が watching の意味上の目的語。,,
 437,比較,4択,"２つの文が同じような意味になるように，空所に入る適語を選びなさい。
 (A) As she grew older, she became healthier.
 (B) (     ) she grew, the healthier she became.",As older,Much older,So older,The older,D,,"The + 比較級 ~, the + 比較級 ...「〜すればするほど」。The older she grew, the healthier she became。",,
@@ -2041,7 +2041,7 @@ Fast food is neither cheap (     ) convenient these days.",or,for,and,nor,D,,nei
 2. No sooner does he find an expression to his taste while reading a book, than he marks it with a red pencil.
 3. Do monkeys fear snakes more than we human beings do?
 4. Please give me a telephone this evening.
-5. I will scold him as soon as he comes back.",,,,,4,４,「電話をください」は give me a call / call me。give me a telephone では「電話機をください」の意味になる。,,
+5. I will scold him as soon as he comes back.",,,,,4,4,「電話をください」は give me a call / call me。give me a telephone では「電話機をください」の意味になる。,,
 1397,主語と動詞の一致,入力,"Theories about the origins of the universe ― when it was born, what it is composed of, and how it is going to be in the future ― (     ) to spark vibrant debate among scientists and cosmologists.
 【和訳】宇宙の起源についての理論は、科学者や宇宙論者の間で活発な議論を呼び続けている。",,,,,continue,,主語 Theories(複数)に対する述語動詞が必要なので continue。continuing は述語動詞になれない。,,
 1398,ことわざ・慣用表現,入力,"You got lost and asked a police officer the way to the station, but didn't catch the last word. What do you say?
@@ -2956,7 +2956,7 @@ None of the other MP3 music players is as cheap as this one, even though it (   
 1. It is worth watching the program.
 2. The program is worth watching.
 3. The program is worth watching it.
-【和訳】その番組は見る価値がある。",,,,,3,３,be worth ~ing は動名詞が他動詞の目的語を兼ねるので、目的語 it を重ねない。誤りは3(watching it の it が不要)。1は形式主語、2は The program が watching の意味上の目的語。,,
+【和訳】その番組は見る価値がある。",,,,,3,3,be worth ~ing は動名詞が他動詞の目的語を兼ねるので、目的語 it を重ねない。誤りは3(watching it の it が不要)。1は形式主語、2は The program が watching の意味上の目的語。,,
 1838,比較,入力,"【和訳】〜すればするほど
 (A) As she grew older, she became healthier.
 (B) (     )(     ) she grew, the healthier she became.",,,,,The older,,"The + 比較級 ~, the + 比較級 ...「〜すればするほど」。The older she grew, the healthier she became。",,
@@ -3534,7 +3534,7 @@ Samantha is so much fun! Life with her is never (     )!",,,,,boring,,Life with 
 Tom doesn't have anything to do now. I'm sure he (     )(     ).",,,,,is bored,,人(he)が主語で「退屈している」→ is bored。,,
 2110,語法,入力,"【和訳】がっかりした
 He felt (     ) but he tried to put on a brave face.",,,,,disappointed,,人が主語で「がっかりした」→ disappointed。,,
-2111,語法,入力,"【和訳】it is (certainly not impossibl…
+2111,語法,入力,"【和訳】新しい言語を学ぶのは、大人になってからのほうが難しいのは確かだが、決して不可能ではない。
 There is no doubt that learning new languages is more difficult once you are an adult, but (     )(     ) certainly not impossible.",,,,,it is,,it is (certainly not impossible)。主語は learning new languages を受ける it。,,
 2112,語法,入力,"【和訳】(実際に)逃げることができた
 The fire spread through the building quickly, but everybody (     )(     )(     ) escape.",,,,,was able to,,was able to「(実際に)逃げることができた」(過去の1回の事実)。could は不可。,,
@@ -3556,7 +3556,7 @@ Murakami's books are very interesting. He is a very (     ) writer.",,,,,imagina
 【和訳】指導者は他の人々のニーズに敏感でなければならない。",,,,,sensitive,,be sensitive to ~「〜に敏感だ」。sensible は「分別のある」、sensational は「センセーショナルな」。,,
 2121,語法,入力,"【和訳】something + 形容詞 + to V の語順…
 I am thirsty. Please give me (     )(     )(     )(     ).",,,,,something cold to drink,,something + 形容詞 + to V の語順。something cold to drink。,,
-2122,語法,入力,"【和訳】a ten-minute bus ride…
+2122,語法,入力,"【和訳】駅から遊園地まではバスで10分だ。
 It is (     )(     ) bus ride from the station to the amusement park.",,,,,a ten-minute,,a ten-minute bus ride。数詞+単位のハイフン形容詞では単位は単数形。,,
 2123,語法,入力,"Even my (     ) grandchild can answer such an easy question.
 【和訳】6歳の孫でさえこんな簡単な問題には答えられる。",,,,,six-year-old,,数詞+単位をハイフンでつないで形容詞にするとき、単位は単数形。six-year-old grandchild。,,
@@ -3578,21 +3578,21 @@ You should exercise a little each day; (     ), your health will suffer.",,,,,ot
 Clouds normally appear white when the light that strikes them is scattered by the small ice or water particles of which clouds are composed. However, when the size of these ice and water particles increases ─ as it does just before clouds begin to produce rain ─ light is no longer scattered and instead is absorbed. (     )(     )(     ), much less light reaches the observer on the ground below and the clouds look darker.",,,,,As a result,,As a result「その結果」。雲の粒が大きくなるとその結果暗く見える。,,
 2132,接続詞,入力,"Taro had a cold on the day of his driving test. (     ), he passed it.
 【和訳】タロウは運転免許試験の日に風邪をひいていた。それにもかかわらず合格した。",,,,,Nevertheless,However|Still,Nevertheless「それにもかかわらず」(接続副詞)。Although / Since / While は接続詞で、文頭にピリオドの後では使えない。,,
-2133,語法,入力,"【和訳】a new one(= a new computer)…
+2133,語法,入力,"【和訳】私のコンピューターはとても古い。新しいのを買いたい。
 My computer is very old. I want to buy a new (     ).",,,,,one,,a new one(= a new computer)。one は不特定の可算名詞を受ける。,,
-2134,語法,入力,"【和訳】before it achieved ~(it = that…
+2134,語法,入力,"【和訳】その会社が商業的成功を収めるまでに5年以上かかった。
 It took that company over five years before (     ) achieved commercial success.",,,,,it,,before it achieved ~(it = that company)。,,
 2135,語法,入力,"【和訳】日本製のパンとアメリカのパン
 Could you explain the difference between bread made in Japan and (     )(     )?",,,,,American bread,,bread made in Japan and American bread「日本製のパンとアメリカのパン」。one は修飾語がつくと American one と言えない。,,
-2136,語法,入力,"【和訳】It is useful to know ~(形式主語 it…
+2136,語法,入力,"【和訳】２つ以上の言語を知っていることは便利だ。
 (     )(     ) useful to know more than one language.",,,,,It is,,It is useful to know ~(形式主語 it)。,,
 2137,語法,入力,"【和訳】found it impossible to ~(形式目的語…
 She found (     ) impossible to get to the theater before the play began.",,,,,it,,found it impossible to ~(形式目的語 it)。,,
 2138,語法,入力,"The temperature of the water is much warmer than (     ) of the air.
 【和訳】水の温度は空気の温度よりずっと暖かい。",,,,,that,,比較の対象を合わせる。単数名詞 the temperature の繰り返しは that。,,
-2139,語法,入力,"【和訳】The cars ... those made in Jap…
+2139,語法,入力,"【和訳】アメリカ製の車は日本製のものより高価だ。
 The cars made in the U.S.A. are more expensive than (     ) made in Japan.",,,,,those,,The cars ... those made in Japan。複数名詞の繰り返しは those。,,
-2140,語法,入力,"【和訳】similar to those of depression…
+2140,語法,入力,"【和訳】その症状はうつ病の症状に似ている。
 The symptoms are similar to (     ) of depression.",,,,,those,,similar to those of depression。symptoms の繰り返しで those。,,
 2141,語法,入力,"【和訳】出席者
 Those (     ) were all very glad to hear of the birth of a royal baby boy.",,,,,present,,Those present「出席者」(those who were present)。present は後置形容詞。,,
@@ -3696,7 +3696,7 @@ Japanese schools started to serve lunch.",,,,,However,,However「しかし」。
 Greenhouse gases are increasing. (     ), the atmosphere and the sea are getting warmer and warmer.",,,,,Consequently,,Consequently「その結果」。,,
 2190,語彙問題,入力,"【和訳】その代わりに
 We were supposed to play soccer, but it was raining. We played basketball (     ).",,,,,instead,,instead「その代わりに」。,,
-2191,語法,入力,"【和訳】I don't like either of them ≒ …
+2191,語法,入力,"【和訳】「この色が好き?それともあの色?」「どちらの色も好きではない。」
 ""Do you like this color? Or, that color?""
 ""(     )(     )(     )(     )(     )(     )(     )(     )(     )(     )(     )(     )""",,,,,"I don't like this color, and I don't like that color, either.",,I don't like either of them ≒ A。,,
 2192,語法,入力,"【和訳】交代で
@@ -3716,7 +3716,8 @@ Every time he plays tennis, he takes (     )(     )(     ) time to warm up.",,,,
 2198,語彙問題,入力,"【和訳】(a)での語の定義にふさわしく，かつ(b)の空所に入る適語を選びなさい。
 (a) associated more with one person or thing; mainly
 (b) This textbook was designed (     ) for Japanese students studying English.",,,,,especially,,especially =「特に」(associated more with one person or thing; mainly)。designed especially for ~「特に〜向けに作られた」。,,
-2199,語彙問題,入力,"【和訳】What is your favorite ~? ≒ Wha…
+2199,語彙問題,入力,"【和訳】(a) ウィルソンさん、どんな日本食が一番好きですか。
+(b) ウィルソンさん、日本食で一番のお気に入りは何ですか。
 (a) What Japanese food do you like best, Mr. Wilson?
 (b) What is your (     ) Japanese food, Mr. Wilson?",,,,,favorite,,What is your favorite ~? ≒ What ~ do you like best?,,
 2200,語法,入力,"【和訳】Hardly any of ~(ほとんど〜ない)≒ Very…
@@ -4141,7 +4142,8 @@ A： All right. (     )(     )(     ) that the lights are off when you leave.",,
 (a) Please see to it that the doors upstairs are locked.
 (b) Please (     ) sure that the doors upstairs are locked.",,,,,make,,make sure =「確かめる」。【例】Make sure you lock the door.(必ずドアに鍵をかけて。),,
 2398,イディオム,入力,"次の定義に当てはまる熟語を答えなさい。
-to meet by chance",,,,,run across,come across|run into|bump into,run across ~ =「偶然出会う」(= meet by chance)≒ come across / run into / bump into。,,
+to meet by chance
+【和訳】偶然出会う",,,,,run across,come across|run into|bump into,run across ~ =「偶然出会う」(= meet by chance)≒ come across / run into / bump into。,,
 2399,重要多義語,入力,"(a) The Johnsons did their best to make their guests feel at (     ).
 (b) He gave me his (     ) phone number and told me to call him for help if necessary.
 【和訳】(a) ジョンソン家の人々は、客がくつろげるよう最善を尽くした。
@@ -4380,96 +4382,96 @@ I would like to stay home instead (     )(     )(     ).",,,,,of going out,,inst
 The task was achieved (     )(     )(     )(     ) great efforts.",,,,,at the expense of,,at the expense of ~ =「〜を犠牲にして」。【例】He succeeded at the expense of his health.(彼は健康を犠牲にして成功した。),,
 2513,イディオム,入力,"【和訳】〜の方向へ
 All the birds flew (     ) the direction of the sea.",,,,,in,,in the direction of ~ =「〜の方向へ」。,,
-2514,イディオム,入力,"【和訳】be familiar with ~ ≒ know…
+2514,イディオム,入力,"【和訳】彼は東京の地下鉄をよく知っている。
 He (     ) the Tokyo subway system.",,,,,knows,,be familiar with ~ ≒ know。,,
-2515,イディオム,入力,"【和訳】be concerned about ~ ≒ be worr…
+2515,イディオム,入力,"【和訳】彼は息子の将来を心配している。
 He (     ) about his son's future.",,,,,worried,,be concerned about ~ ≒ be worried。,,
-2516,イディオム,入力,"【和訳】be ashamed of ~ ≒ be embarrass…
+2516,イディオム,入力,"【和訳】ダークは幼いころ、真っ赤な髪の毛を恥ずかしがっていた。
 When Dirk was young, he was (     )(     ) his bright red hair.",,,,,embarrassed by,,be ashamed of ~ ≒ be embarrassed by ~。【例】I was embarrassed by my mistake.(自分のミスが恥ずかしかった。),,
 2517,イディオム,入力,"【和訳】裕福な
 Only (     ) families live in this area.",,,,,rich,,well off =「裕福な」≒ rich。【例】They are well off.(彼らは裕福だ。),,
-2518,イディオム,入力,"【和訳】immediately ≒ right away…
+2518,イディオム,入力,"【和訳】宿題をすぐにやりなさい。
 Do your homework (     )(     ).",,,,,right away,,immediately ≒ right away。,,
 2519,イディオム,入力,"My uncle in New York writes me now and (     ).
 【和訳】ニューヨークのおじは、ときどき私に手紙をくれる。",,,,,again,,now and again =「ときどき」≒ sometimes / from time to time / now and then。,,
 2520,イディオム,入力,"【和訳】ときどき
 Mary worked on her project (     ) all day.",,,,,occasionally,,off and on ≒ occasionally =「ときどき」。【例】It rained off and on all day.(1日中降ったりやんだりだった。),,
-2521,イディオム,入力,"【和訳】next to ~ ≒ almost…
+2521,イディオム,入力,"【和訳】数学で彼に勝つのはほとんど不可能だ。
 It is (     ) impossible to outdo him in mathematics.",,,,,almost,,next to ~ ≒ almost。【例】It is next to impossible.(ほとんど不可能だ。),,
-2522,イディオム,入力,"【和訳】in time ≒ sooner or later…
+2522,イディオム,入力,"【和訳】多くの夢は遅かれ早かれ実現する。
 Many dreams come true (     )(     )(     ).",,,,,sooner or later,,in time ≒ sooner or later。【例】You'll succeed in time.(いずれ成功するだろう。),,
-2523,イディオム,入力,"【和訳】on purpose ≒ intentionally…
+2523,イディオム,入力,"【和訳】ジェーンはときどきわざと携帯電話の電源を切る。
 Jane sometimes switches off her cell phone (     ).",,,,,intentionally,,on purpose ≒ intentionally。【例】She did it on purpose.(彼女はわざとやった。),,
-2524,イディオム,入力,"【和訳】by chance ≒ accidentally…
+2524,イディオム,入力,"【和訳】私は祭りで偶然昔の友人に会った。
 I met my old friend (     ) at the festival.",,,,,accidentally,,by chance ≒ accidentally。【例】I met her by chance.(彼女に偶然会った。),,
 2525,イディオム,入力,"Please let me know your arrival time in (     ).
 【和訳】到着時刻を前もってお知らせください。",,,,,advance,,in advance =「前もって」≒ beforehand。,,
-2526,イディオム,入力,"【和訳】share ≒ have in common…
+2526,イディオム,入力,"【和訳】彼らは共通の関心を持っているので、とても仲がよいようだ。
 They seem to get along very well because they (     )(     )(     ) the same interests.",,,,,have in common,,share ≒ have in common。,,
-2527,イディオム,入力,"【和訳】before long ≒ soon…
+2527,イディオム,入力,"【和訳】私たちはまもなく火星へ旅行できるかもしれない。
 We may be able to travel to Mars (     ).",,,,,soon,,before long ≒ soon。【例】He will come before long.(彼はまもなく来る。),,
-2528,イディオム,入力,"【和訳】on time ≒ on schedule…
+2528,イディオム,入力,"【和訳】その飛行機が定刻どおりに出発するかどうか教えてもらえますか。
 Can you tell me if the plane will leave (     )(     )?",,,,,on schedule,,on time ≒ on schedule。【例】The train left on time.(電車は定刻に出発した。),,
-2529,イディオム,入力,"【和訳】for nothing ≒ free…
+2529,イディオム,入力,"【和訳】私たちはそれをただで手に入れた。
 We got it (     ).",,,,,free,,for nothing ≒ free。,,
-2530,イディオム,入力,"【和訳】all for nothing ≒ without resu…
+2530,イディオム,入力,"【和訳】3時間、彼の考えを変えさせようとしてきたが、すべてむだに終わった。
 I have been trying to make him change his mind for three hours, and (     )(     ).",,,,,without result,,all for nothing ≒ without result。,,
-2531,イディオム,入力,"【和訳】especially ≒ above all…
+2531,イディオム,入力,"【和訳】私は春が好きだ、とりわけ夜明けが。
 I like spring, (     )(     ) at dawn.",,,,,above all,,"especially ≒ above all。【例】I love fruit, above all apples.(果物が好き、とりわけりんごが。)",,
-2532,イディオム,入力,"【和訳】at all costs ≒ no matter what…
+2532,イディオム,入力,"【和訳】私は何としてもその課題を終えなければならない。
 I must finish the assignment (     )(     )(     ).",,,,,no matter what,,at all costs ≒ no matter what。【例】I'll finish it at all costs.(何としてもやり遂げる。),,
-2533,イディオム,入力,"【和訳】by all means ≒ definitely…
+2533,イディオム,入力,"【和訳】ジョンソン夫妻が私たちを夕食に招いてくれたら、もちろんお返しに招待しなければならない。
 If the Johnsons invite us for dinner, then (     ) we have to return the invitation.",,,,,definitely,,"by all means ≒ definitely。【例】By all means, come in.(ぜひお入りください。)",,
-2534,イディオム,入力,"【和訳】by degrees ≒ gradually…
+2534,イディオム,入力,"【和訳】彼女の病気はだんだん悪くなっている。
 Her illness has been getting worse (     ).",,,,,gradually,,by degrees ≒ gradually。【例】The pain eased by degrees.(痛みは次第に和らいだ。),,
-2535,イディオム,入力,"【和訳】on the spot ≒ promptly…
+2535,イディオム,入力,"【和訳】彼女はその場で話をでっち上げた。
 She made up a story (     ).",,,,,promptly,,on the spot ≒ promptly。【例】He answered on the spot.(彼はその場で答えた。),,
 2536,イディオム,入力,"The singer will appear on the stage in no (     ).
 【和訳】その歌手はまもなく舞台に現れるだろう。",,,,,time,,in no time =「すぐに」≒ very soon / in a moment。,,
 2537,イディオム,入力,"On the (     ), I agree with you.
 【和訳】全体として、あなたに賛成だ。",,,,,whole,,on the whole =「概して」≒ in general。,,
-2538,イディオム,入力,"【和訳】By the way ≒ Incidentally…
+2538,イディオム,入力,"【和訳】ところで、忘れないうちに言うけれど、彼があなたにこれを渡すよう私に頼んだ。
 (     ), before I forget, he asked me to give you this.",,,,,Incidentally,,"By the way ≒ Incidentally。【例】By the way, where is he?(ところで、彼はどこ?)",,
 2539,イディオム,入力,"Tom tells lies from time to (     ) to cover up his mistakes.
 【和訳】トムは失敗を隠すために、ときどき嘘をつく。",,,,,time,,from time to time =「ときどき」≒ sometimes / now and then。,,
-2540,イディオム,入力,"【和訳】Once in a while ≒ Sometimes…
+2540,イディオム,入力,"【和訳】ときどき山へキャンプに行く。
 (     ) I go camping in the mountains.",,,,,Sometimes,,Once in a while ≒ Sometimes。【例】Once in a while we eat out.(ときどき外食する。),,
 2541,イディオム,入力,"Great ideas, like hurricanes, seem to come out of the (     ), though they arrive through complex, interacting forces.
 【和訳】優れた考えは、ハリケーンと同じように、複雑に作用し合う力を通して生まれるのに、突然現れるように思える。",,,,,blue,,out of the blue =「突然、思いがけなく」≒ unexpectedly。,,
-2542,イディオム,入力,"【和訳】In the long run ≒ Ultimately…
+2542,イディオム,入力,"【和訳】結局、彼女は英語を話すことより読むことのほうが重要だと考えるようになった。
 (     ), she found reading English more important than speaking it.",,,,,Ultimately,,"In the long run ≒ Ultimately。【例】In the long run, honesty pays.(結局は正直が得だ。)",,
-2543,イディオム,入力,"【和訳】out of the question ≒ impossib…
+2543,イディオム,入力,"【和訳】申し訳ありませんが、明日の朝早く出発するのは無理です。
 I'm sorry, but leaving early tomorrow morning is (     ).",,,,,impossible,,out of the question ≒ impossible。【例】Going out tonight is out of the question.(今夜の外出は問題外だ。),,
-2544,イディオム,入力,"【和訳】be in charge of ~ ≒ take care …
+2544,イディオム,入力,"【和訳】私は、そのような手のかかる患者の世話をする人たちを深く尊敬している。
 I have deep admiration toward those who (     )(     )(     ) such difficult patients.",,,,,take care of,,be in charge of ~ ≒ take care of ~。【例】He is in charge of sales.(彼は営業担当だ。),,
-2545,イディオム,入力,"【和訳】be keen on ~ ≒ be enthusiastic…
+2545,イディオム,入力,"【和訳】授業中にノートを取ることに熱心な学生はほとんどいない。
 Few students are (     )(     ) taking notes in class.",,,,,enthusiastic about,,be keen on ~ ≒ be enthusiastic about ~。【例】I'm keen on jazz.(ジャズに熱中している。),,
-2546,イディオム,入力,"【和訳】doesn't know anything about ≒ …
+2546,イディオム,入力,"【和訳】彼女は中国についてまったく知らない。
 She (     )(     )(     ) China.",,,,,is ignorant of,,doesn't know anything about ≒ is ignorant of。,,
-2547,イディオム,入力,"【和訳】be inspired by ~ ≒ be based on…
+2547,イディオム,入力,"【和訳】ジェイク・ギレンホール主演の映画『プリンス・オブ・ペルシャ』は、コンピューターゲームを原作としていた。
 Prince of Persia, the movie starring Jake Gyllenhaal, was (     )(     ) a computer game.",,,,,based on,,be inspired by ~ ≒ be based on ~。【例】The film is based on a true story.(その映画は実話に基づく。),,
 2548,イディオム,入力,"The rumor that his family is not very <u>well off</u> is not true.
 下線部とほぼ同じ意味の形容詞を答えなさい。
 【和訳】彼の家があまり裕福でないといううわさは本当ではない。",,,,,wealthy,rich,well off =「裕福な」≒ wealthy / rich。healthy は「健康な」。,,
-2549,イディオム,入力,"【和訳】right away ≒ at once…
+2549,イディオム,入力,"【和訳】彼女はすぐに戻ると言った。
 She said she would be back (     )(     ).",,,,,at once,,right away ≒ at once。【例】I'll be back right away.(すぐ戻る。),,
-2550,イディオム,入力,"【和訳】on purpose ≒ intentionally…
+2550,イディオム,入力,"【和訳】それは事故だったのか、それともトムがわざとやったのか。
 Was it an accident or did Tom do it (     )?",,,,,intentionally,,on purpose ≒ intentionally。,,
-2551,イディオム,入力,"【和訳】for good ≒ permanently…
+2551,イディオム,入力,"【和訳】私は永久に禁酒することを決意した。
 I resolved to quit drinking (     ).",,,,,permanently,,for good ≒ permanently。【例】He quit smoking for good.(彼は永久に禁煙した。),,
-2552,イディオム,入力,"【和訳】by turns ≒ one after another…
+2552,イディオム,入力,"【和訳】順番にお入りください。
 Please come in (     )(     )(     ).",,,,,one after another,,by turns ≒ one after another。【例】They came in by turns.(彼らは順番に入ってきた。),,
-2553,イディオム,入力,"【和訳】in time ≒ sooner or later…
+2553,イディオム,入力,"【和訳】彼はいずれ医者になるだろう。
 He will be a doctor (     )(     )(     ).",,,,,sooner or later,,in time ≒ sooner or later。【例】You'll understand in time.(いずれわかる。),,
-2554,イディオム,入力,"【和訳】in fact ≒ actually…
+2554,イディオム,入力,"【和訳】実のところ、この技術はすでに古い。
 This technology is, (     ), already old.",,,,,actually,,"in fact ≒ actually。【例】In fact, I never saw him.(実のところ、彼に会わなかった。)",,
-2555,イディオム,入力,"【和訳】be out of order ≒ doesn't work…
+2555,イディオム,入力,"【和訳】この自動販売機は動かない。
 This vending machine (     )(     ).",,,,,doesn't work,,be out of order ≒ doesn't work。【例】The elevator is out of order.(エレベーターは故障中だ。),,
-2556,イディオム,入力,"【和訳】It's up to you. ≒ it's your ch…
+2556,イディオム,入力,"【和訳】「車を停めるたびに鍵をかけるのは面倒くさいよ」「まあ、それはあなたの自由よ。」
 “I can't bother to lock my car every time I park it."" “Well, (     )(     )(     ).""",,,,,it's your choice,,It's up to you. ≒ it's your choice。【例】It's up to you.(君次第だ。),,
-2557,イディオム,入力,"【和訳】by way of ~ ≒ via…
+2557,イディオム,入力,"【和訳】私たちはロンドン経由でパリへ飛んだ。
 We flew to Paris (     ) London.",,,,,via,,by way of ~ ≒ via。【例】We flew to Rome by way of Paris.(パリ経由でローマへ飛んだ。),,
-2558,ことわざ・慣用表現,入力,"【和訳】pain in the neck ≒ burden…
+2558,ことわざ・慣用表現,入力,"【和訳】彼は覚えが遅いので、このプロジェクトでは私たちの足手まといになるのではないかと心配だ。
 He is so slow to learn that I'm afraid he will be a (     ) for us in this project.",,,,,burden,,pain in the neck ≒ burden。【例】He is a pain in the neck.(彼は厄介者だ。),,
 2559,ことわざ・慣用表現,入力,"【和訳】遅くてもやらないよりまし
 A: I can't believe I forgot my wife's birthday last week!
@@ -4507,7 +4509,7 @@ A: It's me who's beginning to feel tired. See you tomorrow.",,,,,call it a day,,
 2571,ことわざ・慣用表現,入力,"【和訳】そういえば
 そういえば，彼女はそこに彼と一緒にいなかった。
 (     )(     )(     )(     )(     ), she wasn't there with him.",,,,,Come to think of it,,"Come to think of it =「そういえば」。【例】Come to think of it, he is right.(そういえば、彼が正しい。)",,
-2572,ことわざ・慣用表現,入力,"【和訳】come what may ≒ no matter what…
+2572,ことわざ・慣用表現,入力,"【和訳】ジョンは何が起ころうとも頂点を目指すつもりだ。=ジョンは、何があっても頂点を目指すだろう。
 John will go for the top, come what may.=John will go for the top, (     )(     )(     )(     ).",,,,,no matter what happens,,come what may ≒ no matter what happens。,,
 2573,ことわざ・慣用表現,入力,"【和訳】たぶん〜だろう
 The (     ) are that he won't come with us.",,,,,chances,,The chances are (that) ~ =「たぶん〜だろう」。【例】The chances are that he will win.(たぶん彼が勝つだろう。),,
@@ -4936,7 +4938,8 @@ She tried to (     )(     )(     )(     )(     ), but he just wouldn't listen.",
 2731,語彙問題,入力,"It (     ) good.
 【和訳】それは良さそうだ。",,,,,sounds,,sound + 形容詞 =「〜のように聞こえる/思われる」。,,
 2732,語彙問題,入力,"次の定義に当てはまる英単語を答えなさい。
-a chance for progress or advancement",,,,,opportunity,,opportunity =「好機」。,,
+a chance for progress or advancement
+【和訳】進歩や昇進のための機会(好機)",,,,,opportunity,,opportunity =「好機」。,,
 2733,重要多義語,入力,"【和訳】元気な
 (a) Everything was covered in a (     ) layer of dust.
 (b) ""How are you?"" ""I'm (     ), thank you.""",,,,,fine,,fine =「元気な」「薄い」(多義)。,,
@@ -4987,24 +4990,24 @@ I have a friend who never eats (     ).",,,,,lunch,,eat lunch =「昼食をと�
 George likes physics and he wants to be (     ) Einstein in the future.",,,,,an,,an Einstein =「アインシュタインのような人」。,,
 2755,語法,入力,"【和訳】週5日
 My father has worked five days (     )(     ) since he started his new job.",,,,,a week,,five days a week =「週5日」。,,
-2756,主語と動詞の一致,入力,"【和訳】people who ~ were more likely …
+2756,主語と動詞の一致,入力,"【和訳】イギリスの約50万人を対象にした6年間の研究で、夜に活動的だった人は、その期間中に死亡する可能性が10パーセント高いことがわかった。
 A six-year study of nearly half a million people in the United Kingdom has found that people who were active at night (     ) 10 percent more likely to die during that time period.",,,,,were,,people who ~ were more likely …。,,
 2757,時制,入力,"【和訳】演奏する予定だ
 My cousin's band, The Wild Flamingos, (     )(     ) a concert in the park next weekend.",,,,,is playing,,is playing =「演奏する予定だ」(近い未来の確定した予定)。,,
-2758,語法,入力,"【和訳】Sunburn, a painful redness ~, …
+2758,語法,入力,"【和訳】日焼けは、皮膚の痛みを伴う赤みであり、熱ではなく紫外線によって引き起こされる。
 Sunburn, (     )(     )(     )(     )(     )(     ), is not caused by the heat but by rays of ultraviolet light.",,,,,a painful redness of the skin,,"Sunburn, a painful redness ~, is not caused ~ (同格)。",,
-2759,倒置・省略・強調,入力,"【和訳】In my yard are small flowers a…
+2759,倒置・省略・強調,入力,"【和訳】私の庭には小さな花や木がある。
 In my yard (     ) small flowers and trees.",,,,,are,,In my yard are small flowers and trees.(倒置)。主語は複数。,,
 2760,主語と動詞の一致,入力,"【和訳】it includes several stops(主語は …
 The itinerary for the study abroad tour remains unfinished, but according to my current understanding, (     ) several stops that are already fixed.",,,,,includes,,it includes several stops(主語は The itinerary)。単数なので includes。,,
-2761,接続詞,入力,"【和訳】neither A nor B…
+2761,接続詞,入力,"【和訳】最近のファストフードは、安くも便利でもない。
 Fast food is neither cheap (     ) convenient these days.",,,,,nor,,neither A nor B。,,
 2762,語法,入力,"次の1〜5のうち、英文が誤っているものを1つ選び、番号(半角数字)で答えなさい。
 1. I was taught, when very young, that the Earth goes around the sun.
 2. No sooner does he find an expression to his taste while reading a book, than he marks it with a red pencil.
 3. Do monkeys fear snakes more than we human beings do?
 4. Please give me a telephone this evening.
-5. I will scold him as soon as he comes back.",,,,,4,４,「電話をください」は give me a call / call me。give me a telephone では「電話機をください」の意味になる。,,
+5. I will scold him as soon as he comes back.",,,,,4,4,「電話をください」は give me a call / call me。give me a telephone では「電話機をください」の意味になる。,,
 2763,主語と動詞の一致,入力,"Theories about the origins of the universe ― when it was born, what it is composed of, and how it is going to be in the future ― (     ) to spark vibrant debate among scientists and cosmologists.
 【和訳】宇宙の起源についての理論は、科学者や宇宙論者の間で活発な議論を呼び続けている。",,,,,continue,,主語 Theories(複数)に対する述語動詞が必要なので continue。continuing は述語動詞になれない。,,
 2764,ことわざ・慣用表現,入力,"You got lost and asked a police officer the way to the station, but didn't catch the last word. What do you say?
@@ -5025,4 +5028,8 @@ Y：I don't have the slightest idea.
 X：I do. It was me. Can you believe it?
 Y：(     )
 X：It's the truth, I swear.
-【和訳】Y:(  )",,,,,"You can't be serious, can you?","You cannot be serious, can you","「まさか本気じゃないよね」= You can't be serious, can you?",,
+【和訳】X:誰がキャロラインを学校のダンスに誘ったと思う?
+Y:見当もつかないな。
+X:私は知ってるよ。誘ったのは私なんだ。信じられる?
+Y:(  )
+X:本当だよ、誓って。",,,,,"You can't be serious, can you?","You cannot be serious, can you","「まさか本気じゃないよね」= You can't be serious, can you?",,
